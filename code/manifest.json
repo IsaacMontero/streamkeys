@@ -1,6 +1,8 @@
 {
   "manifest_version": 2,
   "homepage_url": "http://www.streamkeys.com",
+  "name": "Steamkeys",
+  "version": "1",
   "icons": {"48": "icon48.png", "128": "icon128.png"},
   "options_page": "html/options.html",
   "background": {
